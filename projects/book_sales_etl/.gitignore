@@ -1,0 +1,11 @@
+# Ignore raw and processed data
+data/processed/
+data/output/
+
+# Innore python cache
+__pycache__/
+*.pyc
+
+# Ignore log files
+logs/
+*.log

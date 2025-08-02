@@ -1,0 +1,8 @@
+data_source:
+  csv_path: "../data/raw/book_sales_mock_data.csv"
+
+processed:
+  clean_path: "../data/processed/book_sales_cleaned.csv"
+
+output:
+  parquet_path: "../data/output/sales_summar.parquet"
